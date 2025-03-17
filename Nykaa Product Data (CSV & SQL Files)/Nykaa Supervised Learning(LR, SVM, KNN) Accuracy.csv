@@ -1,0 +1,4 @@
+Algorithm Name,Accuracy Score (Train),F1-Score (Train),Accuracy Score (Test),F1-Score (Test)
+Logistic Regression,0.74,0.74,0.8,0.81
+Support Vector Machine (SVM) Classifier,0.75,0.75,0.84,0.83
+K-Nearest Neighbors (K-NN) Classifier,0.95,0.95,0.89,0.87
